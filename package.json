@@ -1,0 +1,19 @@
+{
+	"private": true,
+	"name": "means-of-transport",
+	"description": "A hopeless attempt to standardise means of transport identifiers.",
+	"version": "0.0.0",
+	"keywords": [
+		"transportation",
+		"public transport",
+		"standard"
+	],
+	"author": {"name": "Julius Tens", "email": "mail@juliustens.de>"},
+	"contributors": [
+		{"name": "Jannis R", "email": "mail@jannisr.de>"}
+	],
+	"homepage": "https://github.com/public-transport/means-of-transport",
+	"repository": "public-transport/means-of-transport",
+	"bugs": "https://github.com/public-transport/means-of-transport/issues",
+	"license": "CC-BY-SA-4.0"
+}
